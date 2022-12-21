@@ -1,6 +1,6 @@
 # Guardian-Starship &middot; 
 
-<img src="./endless_img/endless1.png" alt="Logo of the project"  width="150"  align="right">
+<img src="./guardian_img/Enemy_01.png" width="150"  align="right">
 
 ![GitHub stars](https://img.shields.io/github/stars/kaanks/Guardian-Starship?style=social) ![GitHub forks](https://img.shields.io/github/forks/kaanks/Guardian-Starship?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/kaanks/Guardian-Starship?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/kaanks/Guardian-Starship?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/kaanks/Guardian-Starship?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/kaanks/Guardian-Starship?style=plastic) ![GitHub issues](https://img.shields.io/github/issues/kaanks/EndlessRoad) 
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/kaanks/Guardian-Starship?color=red&style=plastic) -->
