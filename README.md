@@ -1,4 +1,4 @@
-# Guardian-Starship&middot; 
+# Guardian-Starship &middot; 
 
 <img src="./endless_img/endless1.png" alt="Logo of the project"  width="150"  align="right">
 
