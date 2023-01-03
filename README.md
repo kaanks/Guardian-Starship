@@ -23,8 +23,8 @@
 
 <table>
    <tr>
-      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian1.png?raw=true"></td>
-      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian2.png?raw=true"></td>
-      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian3.png?raw=true"></td>
-      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian4.png?raw=true"></td>
+      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian_1.png?raw=true"></td>
+      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian_2.png?raw=true"></td>
+      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian_3.png?raw=true"></td>
+      <td><img src="https://github.com/kaanks/Guardian-Starship/blob/main//guardian_img/guardian_4.png?raw=true"></td>
    </tr>
